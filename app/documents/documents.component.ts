@@ -15,21 +15,21 @@ export class DocumentsComponent {
       description: 'asdfasdfsadf adsf',
       file_url: 'http://google.com',
       updated_at: '9/5/17',
-      image_url: 'http://google.com'
+      image_url: 'http://www.techzim.co.zw/wp-content/uploads/freelancer.png'
     },
     {
       title: "My Second Doc",
       description: 'asdfasdfsadf adsf',
       file_url: 'http://google.com',
       updated_at: '9/5/17',
-      image_url: 'http://google.com'
+      image_url: 'http://www.techzim.co.zw/wp-content/uploads/freelancer.png'
     },
     {
       title: "My Last Doc",
       description: 'asdfasdfsadf adsf',
       file_url: 'http://google.com',
       updated_at: '9/5/17',
-      image_url: 'http://google.com'
+      image_url: 'http://www.techzim.co.zw/wp-content/uploads/freelancer.png'
     }
   ]
 }
