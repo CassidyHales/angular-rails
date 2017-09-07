@@ -39,7 +39,7 @@ var DocumentsComponent = /** @class */ (function () {
             moduleId: module.id,
             selector: 'documents',
             templateUrl: 'documents.component.html',
-            styleUrls: ['documents.component.css']
+            styleUrls: ['documents.component.css'],
         })
     ], DocumentsComponent);
     return DocumentsComponent;
